@@ -1,0 +1,12 @@
+~*
+*~
+#*
+*.suo
+*.user
+*.exe
+*.msi
+shutdown.log
+Debug
+Release
+obj
+bin
