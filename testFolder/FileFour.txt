@@ -1,0 +1,2 @@
+This fill is added in 'doSomeStuff' but will be excluded in the merge
+operation.
