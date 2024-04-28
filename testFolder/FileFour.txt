@@ -1,0 +1,4 @@
+This file is added in 'doSomeStuff' but will be excluded in the merge
+operation.
+
+Some more changes to be merged: what happens now?
