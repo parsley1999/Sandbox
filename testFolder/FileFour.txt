@@ -5,3 +5,4 @@ Some more changes to be merged: what happens now?
 There was a conflict, and I needed to tell git to restore the file.
 
 Now it has been renamed in the release branch: what will happen this time?
+It was great: the new text was merged into the file with its new name.
